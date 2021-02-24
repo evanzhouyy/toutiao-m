@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-  HEllo world
-    <router-view/>
+    <router-view />
+    <i class="toutiao toutiao-lishi"></i>
   </div>
 </template>
 
@@ -12,5 +12,4 @@ export default {
 </script>
 
 <style lang="less">
-
 </style>
